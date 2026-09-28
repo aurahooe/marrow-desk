@@ -1,2 +1,3 @@
-# marrow-desk
-Marrow — an hourly reading room. Public bones on the wall.
+# Marrow
+
+An hourly reading room. Sign in, write a bone, mark it public if it belongs on the wall.
